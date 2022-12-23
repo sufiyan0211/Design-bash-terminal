@@ -1,6 +1,6 @@
 # Design-bash-terminal
 
-#### watch this youtube [video](https://www.youtube.com/watch?v=zfm2E4E7Dok&ab_channel=SystemSlayer) for better understanding
+#### Watch this youtube [video](https://www.youtube.com/watch?v=zfm2E4E7Dok&ab_channel=SystemSlayer) for better understanding
 
 ### Reference Links
 * Available color names for Powerline customization:
